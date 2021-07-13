@@ -9,7 +9,7 @@ This application is a basic version of a movie recommendation system.
 
 1) Clone the repository
 2) Install the necessary modules using requirements.txt file.
-3) Run the main.py file\
+3) Run the main.py file
 4) At the very first time you execute the python file  a config file is generated which can be used to store the user interests for further predictions.
 5) You can only see this home page when you run the python file for the first time or when the config file is missing.
 
@@ -34,8 +34,8 @@ You can use this window to save the user's interest and write it to config file 
    
 ![alt text](https://github.com/Himmalay-Devulapalli/Movie-Recomendation-System/blob/main/output/prediction_based_on_interest.png)
 
-10) This is just a basic architecture of movie recommendation system.This application can be improved in many better ways!!Refer to code for better understanding and further
-    development.
+10) This is just a basic architecture of movie recommendation system.This application can be improved in many better ways !
+    Refer to code for better understanding and further development.
    
 
 
