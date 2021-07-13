@@ -34,7 +34,7 @@ You can use this window to save the user's interest and write it to config file 
    
 ![alt text](https://github.com/Himmalay-Devulapalli/Movie-Recomendation-System/blob/main/output/prediction_based_on_interest.png)
 
-10) This is just a basic architecture of movie recommendation system.This application can be improved in many better ways !
+10) This is just a basic architecture of movie recommendation system.This application can be improved in many better ways.
     Refer to code for better understanding and further development.
    
 
